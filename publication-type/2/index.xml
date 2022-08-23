@@ -5,12 +5,20 @@
     <link>https://sajesan.github.io/publication-type/2/</link>
       <atom:link href="https://sajesan.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sajesan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://sajesan.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>TBX20 Improves Contractility and Mitochondrial Function during Direct Human Cardiac Reprogramming</title>
+      <link>https://sajesan.github.io/publication/circulation2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sajesan.github.io/publication/circulation2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Molecular regulators of HOXA9 in acute myeloid leukemia</title>
@@ -51,28 +59,9 @@
     </item>
     
     <item>
-      <title>New paradigm for a targeted cancer therapeutic approach: a short review on potential synergy of gold nanoparticles and cold atmospheric plasma</title>
-      <link>https://sajesan.github.io/publication/biomedicines2017/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://sajesan.github.io/publication/biomedicines2017/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Development of Cost Optimized Horizontal Gel Electrophoresis Running Unit for Developing Countries (Nepal)</title>
       <link>https://sajesan.github.io/publication/nepjol2018/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://sajesan.github.io/publication/nepjol2018/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -89,11 +78,22 @@
     </item>
     
     <item>
-      <title>TBX20 Improves Contractility and Mitochondrial Function during Direct Human Cardiac Reprogramming</title>
-      <link>https://sajesan.github.io/publication/circulation2022/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://sajesan.github.io/publication/circulation2022/</guid>
-      <description></description>
+      <title>New paradigm for a targeted cancer therapeutic approach: a short review on potential synergy of gold nanoparticles and cold atmospheric plasma</title>
+      <link>https://sajesan.github.io/publication/biomedicines2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://sajesan.github.io/publication/biomedicines2017/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
